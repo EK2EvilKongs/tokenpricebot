@@ -8,7 +8,7 @@ const inputs = {
   USE_COINGECKO_PRICING: false,
   TOKEN_NAME: "",
   TOKEN_SYMBOL: "",
-  API_URL: 'https://api.geckoterminal.com/api/v2/networks/polygon_pos/pools/0x96430bb97fb0221028869283aa09bbe2cdd3484d',
+  API_URL: 'https://api.geckoterminal.com/api/v2/networks/polygon_pos/pools/0xf307d80857f08becc90404fca6be332395169ea7',
   WATCHING: 'WATCHING', // Agrega el tipo de actividad de "watching" aquí si es necesario.
 };
 
